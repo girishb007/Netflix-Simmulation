@@ -13,4 +13,7 @@ const requests = {
     fetchRomanceMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10749`,
     fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&with_genres=99`,
 };
+ export default requests;
+
+/*https://api.themoviedb.org/3/trending/all/week?api_key=${8338d7532bb05293aa286097d30956ce}&language=en-US*/
 

@@ -1,5 +1,5 @@
 
-/*Request for tmbi api*/
+/*Request for TMDB API*/
 
 const API_KEY = "8338d7532bb05293aa286097d30956ce";
 
